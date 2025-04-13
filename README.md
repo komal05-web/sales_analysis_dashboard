@@ -23,8 +23,5 @@ The dashboard can be used to:
 - Data analysis tools (e.g., Excel/Python).
 
 ## Authors
-Developed by [Your Name or Team Name].
+Developed by Komal Pandey.
 
----
-
-Feel free to expand or customize it further as needed! Let me know if you'd like more specific sections added. 😊
