@@ -19,8 +19,8 @@ The dashboard can be used to:
 - Optimize shipping strategies based on customer preferences.
 
 ## Tools Used
-- Data visualization software (e.g., Tableau/Power BI).
-- Data analysis tools (e.g., Excel/Python).
+- Data visualization software (Power BI).
+
 
 ## Authors
 Developed by Komal Pandey.
